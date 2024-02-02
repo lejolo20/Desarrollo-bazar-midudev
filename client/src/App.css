@@ -22,3 +22,14 @@
   place-self: center;
   width: fit-content;
 }
+
+.card {
+  border: 1px solid black;
+  width: fit-content;
+  max-width: 60vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
